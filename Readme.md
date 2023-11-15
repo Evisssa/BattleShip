@@ -1,6 +1,6 @@
 # 🚢  Welcome to Battleship: The Classic Naval Strategy Game! 🌊
 
-Ahoy there, matey! Prepare to embark on an exhilarating journey back in time to the historic origins of Battleship, a game steeped in the annals of naval warfare! Tracing its roots to the First World War, this captivating two-player strategy game has seen the evolution from pencil and paper to the digital era.
+Ahoy there, matey! Prepare to embark on an exhilarating journey back in time to the historic origins of Battleship, a game steeped in the naval warfare! Tracing its roots to the First World War, this captivating two-player strategy game has seen the evolution from pencil and paper to the digital era.
 
 Did you know? Milton Bradley, the mastermind behind popularizing the game, introduced Battleship as one of the pioneering computer games in 1979! 🎮
 
